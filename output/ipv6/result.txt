@@ -1,7 +1,10 @@
 🕘️Update time,#genre#
-2026-03-24 18:35:41,https://stream1.freetv.fun/band-sports-3.m3u8
+2026-03-24 18:57:16,https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 📺 TV Aberta,#genre#
+SBT,https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+Record,https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+Record,https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 Band,https://stream1.freetv.fun/band-sports-3.m3u8
 Band,https://stream1.freetv.fun/band-news-1.m3u8
 Band,https://stream1.freetv.fun/band-news-2.ctv

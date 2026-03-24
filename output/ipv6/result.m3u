@@ -1,113 +1,119 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/francis23sousa1-ops/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-24 18:35:41
+#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-24 18:57:16
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="SBT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SBT.png" group-title="📺 TV Aberta",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Record" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Record.png" group-title="📺 TV Aberta",Record
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Record" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Record.png" group-title="📺 TV Aberta",Record
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Band" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Band.png" group-title="📺 TV Aberta",Band
 https://stream1.freetv.fun/band-sports-3.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Band" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Band.png" group-title="📺 TV Aberta",Band
-https://stream1.freetv.fun/band-sports-3.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Band" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Band.png" group-title="📺 TV Aberta",Band
+#EXTINF:-1 tvg-id="4" tvg-name="Band" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Band.png" group-title="📺 TV Aberta",Band
 https://stream1.freetv.fun/band-news-1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Band" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Band.png" group-title="📺 TV Aberta",Band
+#EXTINF:-1 tvg-id="4" tvg-name="Band" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Band.png" group-title="📺 TV Aberta",Band
 https://stream1.freetv.fun/band-news-2.ctv
-#EXTINF:-1 tvg-id="3" tvg-name="ESPN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPN.png" group-title="⚽ Esportes",ESPN
+#EXTINF:-1 tvg-id="5" tvg-name="ESPN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPN.png" group-title="⚽ Esportes",ESPN
 https://hls-gateway.vpstv.net/streams/709282.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="ESPN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPN.png" group-title="⚽ Esportes",ESPN
+#EXTINF:-1 tvg-id="5" tvg-name="ESPN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPN.png" group-title="⚽ Esportes",ESPN
 https://hls-gateway.vpstv.net/streams/709400.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="ESPN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPN.png" group-title="⚽ Esportes",ESPN
+#EXTINF:-1 tvg-id="5" tvg-name="ESPN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPN.png" group-title="⚽ Esportes",ESPN
 https://hls-gateway.vpstv.net/streams/709401.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="ESPN 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPN 2.png" group-title="⚽ Esportes",ESPN 2
+#EXTINF:-1 tvg-id="6" tvg-name="ESPN 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ESPN 2.png" group-title="⚽ Esportes",ESPN 2
 https://hls-gateway.vpstv.net/streams/709291.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
 https://hls-gateway.vpstv.net/streams/476278.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
 https://hls-gateway.vpstv.net/streams/476972.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
 https://hls-gateway.vpstv.net/streams/476973.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
 https://hls-gateway.vpstv.net/streams/476634.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
 https://hls-gateway.vpstv.net/streams/476633.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
 https://hls-gateway.vpstv.net/streams/476974.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="HBO 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO 2.png" group-title="🎬 Filmes e Séries",HBO 2
+#EXTINF:-1 tvg-id="8" tvg-name="HBO 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO 2.png" group-title="🎬 Filmes e Séries",HBO 2
 https://hls-gateway.vpstv.net/streams/477732.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Warner Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Warner Channel.png" group-title="🎬 Filmes e Séries",Warner Channel
+#EXTINF:-1 tvg-id="9" tvg-name="Warner Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Warner Channel.png" group-title="🎬 Filmes e Séries",Warner Channel
 https://hls-gateway.vpstv.net/streams/708986.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Warner Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Warner Channel.png" group-title="🎬 Filmes e Séries",Warner Channel
+#EXTINF:-1 tvg-id="9" tvg-name="Warner Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Warner Channel.png" group-title="🎬 Filmes e Séries",Warner Channel
 https://hls-gateway.vpstv.net/streams/602243.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Star Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Star Channel.png" group-title="🎬 Filmes e Séries",Star Channel
+#EXTINF:-1 tvg-id="10" tvg-name="Star Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Star Channel.png" group-title="🎬 Filmes e Séries",Star Channel
 https://hls-gateway.vpstv.net/streams/708993.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Star Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Star Channel.png" group-title="🎬 Filmes e Séries",Star Channel
+#EXTINF:-1 tvg-id="10" tvg-name="Star Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Star Channel.png" group-title="🎬 Filmes e Séries",Star Channel
 https://hls-gateway.vpstv.net/streams/477814.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Star Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Star Channel.png" group-title="🎬 Filmes e Séries",Star Channel
+#EXTINF:-1 tvg-id="10" tvg-name="Star Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Star Channel.png" group-title="🎬 Filmes e Séries",Star Channel
 https://goodiptv.club/douyu/9191006
-#EXTINF:-1 tvg-id="9" tvg-name="Universal TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Universal TV.png" group-title="🎬 Filmes e Séries",Universal TV
+#EXTINF:-1 tvg-id="11" tvg-name="Universal TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Universal TV.png" group-title="🎬 Filmes e Séries",Universal TV
 https://xumo-xumoent-ch839-d5ey0.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="12" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
 https://hls-gateway.vpstv.net/streams/709389.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="12" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
 https://hls-gateway.vpstv.net/streams/709390.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="12" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
 https://hls-gateway.vpstv.net/streams/709391.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="12" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
 https://hls-gateway.vpstv.net/streams/709392.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="12" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
 https://hls.iill.top/api/TNT-Sports-1/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="12" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
 https://hls.iill.top/api/TNT-Sports-2/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+#EXTINF:-1 tvg-id="13" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
 https://hls-gateway.vpstv.net/streams/708899.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+#EXTINF:-1 tvg-id="13" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
 https://hls-gateway.vpstv.net/streams/708900.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+#EXTINF:-1 tvg-id="13" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
 https://hls-gateway.vpstv.net/streams/708903.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+#EXTINF:-1 tvg-id="13" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
 https://hls-gateway.vpstv.net/streams/477713.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+#EXTINF:-1 tvg-id="13" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
 https://hls-gateway.vpstv.net/streams/476648.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+#EXTINF:-1 tvg-id="13" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
 https://hls-gateway.vpstv.net/streams/709074.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
+#EXTINF:-1 tvg-id="14" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
 https://hls-gateway.vpstv.net/streams/708942.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
+#EXTINF:-1 tvg-id="14" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
 https://hls-gateway.vpstv.net/streams/477710.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
+#EXTINF:-1 tvg-id="14" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
 https://hls-gateway.vpstv.net/streams/477648.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
+#EXTINF:-1 tvg-id="14" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
 https://hls-gateway.vpstv.net/streams/709599.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
+#EXTINF:-1 tvg-id="14" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
 https://hls-gateway.vpstv.net/streams/602207.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
+#EXTINF:-1 tvg-id="14" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
 https://tv.iill.top/4gtv/4gtv-live026
-#EXTINF:-1 tvg-id="13" tvg-name="National Geographic" tvg-logo="https://www.xn--rgv465a.top/tvlogo/National Geographic.png" group-title="📰 Notícias e Docs",National Geographic
+#EXTINF:-1 tvg-id="15" tvg-name="National Geographic" tvg-logo="https://www.xn--rgv465a.top/tvlogo/National Geographic.png" group-title="📰 Notícias e Docs",National Geographic
 https://hls-gateway.vpstv.net/streams/476874.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
+#EXTINF:-1 tvg-id="16" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
 https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
+#EXTINF:-1 tvg-id="16" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
+#EXTINF:-1 tvg-id="16" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
 https://hls-gateway.vpstv.net/streams/709560.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
+#EXTINF:-1 tvg-id="16" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
 https://hls-gateway.vpstv.net/streams/709107.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
+#EXTINF:-1 tvg-id="16" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
 https://hls-gateway.vpstv.net/streams/709575.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
+#EXTINF:-1 tvg-id="16" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
 https://hls-gateway.vpstv.net/streams/476863.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="Cartoon Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cartoon Network.png" group-title="🧸 Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="17" tvg-name="Cartoon Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cartoon Network.png" group-title="🧸 Infantil",Cartoon Network
 https://hls-gateway.vpstv.net/streams/709541.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="Cartoon Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cartoon Network.png" group-title="🧸 Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="17" tvg-name="Cartoon Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cartoon Network.png" group-title="🧸 Infantil",Cartoon Network
 https://hls-gateway.vpstv.net/streams/605053.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="Cartoon Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cartoon Network.png" group-title="🧸 Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="17" tvg-name="Cartoon Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cartoon Network.png" group-title="🧸 Infantil",Cartoon Network
 https://hls-gateway.vpstv.net/streams/709598.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="Cartoon Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cartoon Network.png" group-title="🧸 Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="17" tvg-name="Cartoon Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cartoon Network.png" group-title="🧸 Infantil",Cartoon Network
 https://hls-gateway.vpstv.net/streams/709450.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="18" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
 https://hls-gateway.vpstv.net/streams/477025.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="18" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
 https://hls-gateway.vpstv.net/streams/605088.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="18" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
 https://hls-gateway.vpstv.net/streams/709545.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="18" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
 https://hls-gateway.vpstv.net/streams/605054.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="18" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
 https://hls-gateway.vpstv.net/streams/605086.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="18" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
 https://hls-gateway.vpstv.net/streams/477714.m3u8
