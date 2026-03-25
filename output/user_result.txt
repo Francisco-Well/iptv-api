@@ -1,5 +1,5 @@
 🕘️Update time,#genre#
-2026-03-25 14:49:01,https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+2026-03-25 15:08:56,https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 📺 TV Aberta,#genre#
 SBT,https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -23,6 +23,10 @@ HBO,https://hls-gateway.vpstv.net/streams/476972.m3u8
 HBO,https://hls-gateway.vpstv.net/streams/476973.m3u8
 HBO,https://hls-gateway.vpstv.net/streams/476634.m3u8
 HBO,https://hls-gateway.vpstv.net/streams/476633.m3u8
+HBO,https://hls-gateway.vpstv.net/streams/476974.m3u8
+HBO,https://hls-gateway.vpstv.net/streams/477731.m3u8
+HBO,https://hls-gateway.vpstv.net/streams/709552.m3u8
+HBO,https://hls-gateway.vpstv.net/streams/709078.m3u8
 HBO 2,https://hls-gateway.vpstv.net/streams/477732.m3u8
 Warner Channel,https://hls-gateway.vpstv.net/streams/708986.m3u8
 Warner Channel,https://hls-gateway.vpstv.net/streams/602243.m3u8
@@ -36,6 +40,8 @@ TNT,https://hls-gateway.vpstv.net/streams/709391.m3u8
 TNT,https://hls-gateway.vpstv.net/streams/709392.m3u8
 TNT,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 TNT,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+TNT,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+TNT,https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 
 📰 Notícias e Docs,#genre#
 Discovery Channel,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
@@ -44,12 +50,17 @@ Discovery Channel,https://hls-gateway.vpstv.net/streams/708900.m3u8
 Discovery Channel,https://hls-gateway.vpstv.net/streams/708903.m3u8
 Discovery Channel,https://hls-gateway.vpstv.net/streams/477713.m3u8
 Discovery Channel,https://hls-gateway.vpstv.net/streams/476648.m3u8
+Discovery Channel,https://hls-gateway.vpstv.net/streams/709074.m3u8
+Discovery Channel,https://hls-gateway.vpstv.net/streams/605084.m3u8
+Discovery Channel,https://hls-gateway.vpstv.net/streams/709075.m3u8
+Discovery Channel,https://hls-gateway.vpstv.net/streams/605100.m3u8
 History,http://37.27.111.214:8080/live/27/hls.m3u8
 History,https://hls-gateway.vpstv.net/streams/708942.m3u8
 History,https://hls-gateway.vpstv.net/streams/477710.m3u8
 History,https://hls-gateway.vpstv.net/streams/477648.m3u8
 History,https://hls-gateway.vpstv.net/streams/709599.m3u8
 History,https://hls-gateway.vpstv.net/streams/602207.m3u8
+History,https://tv.iill.top/4gtv/4gtv-live026
 National Geographic,https://hls-gateway.vpstv.net/streams/476874.m3u8
 CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 CNN Brasil,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/0.m3u8
@@ -57,6 +68,9 @@ CNN Brasil,https://jmp2.uk/sam-GBBD8000016N.m3u8
 CNN Brasil,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 CNN Brasil,https://hls-gateway.vpstv.net/streams/709560.m3u8
 CNN Brasil,https://hls-gateway.vpstv.net/streams/709107.m3u8
+CNN Brasil,https://hls-gateway.vpstv.net/streams/709575.m3u8
+CNN Brasil,https://hls-gateway.vpstv.net/streams/476863.m3u8
+CNN Brasil,https://hls-gateway.vpstv.net/streams/488932.m3u8
 
 🧸 Infantil,#genre#
 Cartoon Network,https://hls-gateway.vpstv.net/streams/709541.m3u8
@@ -69,3 +83,7 @@ Nickelodeon,https://hls-gateway.vpstv.net/streams/709545.m3u8
 Nickelodeon,https://hls-gateway.vpstv.net/streams/605054.m3u8
 Nickelodeon,https://hls-gateway.vpstv.net/streams/605086.m3u8
 Nickelodeon,https://hls-gateway.vpstv.net/streams/477714.m3u8
+Nickelodeon,https://hls-gateway.vpstv.net/streams/709480.m3u8
+Nickelodeon,https://hls-gateway.vpstv.net/streams/602218.m3u8
+Nickelodeon,https://tv.iill.top/4gtv/4gtv-live032
+Nickelodeon,https://jmp2.uk/plu-5f12151794c1800007a8ae63.m3u8

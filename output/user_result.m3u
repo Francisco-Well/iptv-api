@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Francisco-Well/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-25 14:49:01
+#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-25 15:08:56
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="SBT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SBT.png" group-title="📺 TV Aberta",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -35,6 +35,14 @@ https://hls-gateway.vpstv.net/streams/476973.m3u8
 https://hls-gateway.vpstv.net/streams/476634.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
 https://hls-gateway.vpstv.net/streams/476633.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/476974.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/477731.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/709552.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/709078.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="HBO 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO 2.png" group-title="🎬 Filmes e Séries",HBO 2
 https://hls-gateway.vpstv.net/streams/477732.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Warner Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Warner Channel.png" group-title="🎬 Filmes e Séries",Warner Channel
@@ -61,6 +69,10 @@ https://hls-gateway.vpstv.net/streams/709392.m3u8
 https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
 https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="TNT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT.png" group-title="🎬 Filmes e Séries",TNT
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
@@ -73,6 +85,14 @@ https://hls-gateway.vpstv.net/streams/708903.m3u8
 https://hls-gateway.vpstv.net/streams/477713.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
 https://hls-gateway.vpstv.net/streams/476648.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+https://hls-gateway.vpstv.net/streams/709074.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+https://hls-gateway.vpstv.net/streams/605084.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+https://hls-gateway.vpstv.net/streams/709075.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+https://hls-gateway.vpstv.net/streams/605100.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
 http://37.27.111.214:8080/live/27/hls.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
@@ -85,6 +105,8 @@ https://hls-gateway.vpstv.net/streams/477648.m3u8
 https://hls-gateway.vpstv.net/streams/709599.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
 https://hls-gateway.vpstv.net/streams/602207.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
+https://tv.iill.top/4gtv/4gtv-live026
 #EXTINF:-1 tvg-id="16" tvg-name="National Geographic" tvg-logo="https://www.xn--rgv465a.top/tvlogo/National Geographic.png" group-title="📰 Notícias e Docs",National Geographic
 https://hls-gateway.vpstv.net/streams/476874.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
@@ -99,6 +121,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 https://hls-gateway.vpstv.net/streams/709560.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
 https://hls-gateway.vpstv.net/streams/709107.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
+https://hls-gateway.vpstv.net/streams/709575.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
+https://hls-gateway.vpstv.net/streams/476863.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CNN Brasil" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN Brasil.png" group-title="📰 Notícias e Docs",CNN Brasil
+https://hls-gateway.vpstv.net/streams/488932.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Cartoon Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cartoon Network.png" group-title="🧸 Infantil",Cartoon Network
 https://hls-gateway.vpstv.net/streams/709541.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Cartoon Network" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Cartoon Network.png" group-title="🧸 Infantil",Cartoon Network
@@ -119,3 +147,11 @@ https://hls-gateway.vpstv.net/streams/605054.m3u8
 https://hls-gateway.vpstv.net/streams/605086.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
 https://hls-gateway.vpstv.net/streams/477714.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
+https://hls-gateway.vpstv.net/streams/709480.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
+https://hls-gateway.vpstv.net/streams/602218.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
+https://tv.iill.top/4gtv/4gtv-live032
+#EXTINF:-1 tvg-id="19" tvg-name="Nickelodeon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon.png" group-title="🧸 Infantil",Nickelodeon
+https://jmp2.uk/plu-5f12151794c1800007a8ae63.m3u8
