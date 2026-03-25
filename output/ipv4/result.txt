@@ -1,5 +1,5 @@
 🕘️Update time,#genre#
-2026-03-25 15:08:56,https://streaming.cloudecast.com/hls/redetves/index.m3u8
+2026-03-25 15:24:57,https://streaming.cloudecast.com/hls/redetves/index.m3u8
 
 📺 TV Aberta,#genre#
 RedeTV!,https://streaming.cloudecast.com/hls/redetves/index.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Francisco-Well/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-25 15:08:56
+#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-25 15:24:57
 https://streaming.cloudecast.com/hls/redetves/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="RedeTV!" tvg-logo="https://www.xn--rgv465a.top/tvlogo/RedeTV!.png" group-title="📺 TV Aberta",RedeTV!
 https://streaming.cloudecast.com/hls/redetves/index.m3u8

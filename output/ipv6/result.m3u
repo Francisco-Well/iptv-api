@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Francisco-Well/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-25 15:08:56
+#EXTINF:-1 tvg-id="1" tvg-name="Globo" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Globo.png" group-title="🕘️Update time",2026-03-25 15:24:57
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="SBT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SBT.png" group-title="📺 TV Aberta",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -41,6 +41,36 @@ https://hls-gateway.vpstv.net/streams/709552.m3u8
 https://hls-gateway.vpstv.net/streams/709078.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
 https://hls-gateway.vpstv.net/streams/709079.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/709080.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/476622.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/709103.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/709104.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/709105.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/709583.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/709584.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/709585.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/709586.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/477733.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/602206.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls-gateway.vpstv.net/streams/602196.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls.iill.top/api/HBO/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls.iill.top/api/HBO-Hits/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="🎬 Filmes e Séries",HBO
+https://hls.iill.top/api/HBO-Signature/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="HBO 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO 2.png" group-title="🎬 Filmes e Séries",HBO 2
 https://hls-gateway.vpstv.net/streams/477732.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Warner Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Warner Channel.png" group-title="🎬 Filmes e Séries",Warner Channel
@@ -91,6 +121,8 @@ https://hls-gateway.vpstv.net/streams/709075.m3u8
 https://hls-gateway.vpstv.net/streams/605100.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
 https://hls-gateway.vpstv.net/streams/709300.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="Discovery Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Discovery Channel.png" group-title="📰 Notícias e Docs",Discovery Channel
+https://hls-gateway.vpstv.net/streams/477746.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
 https://hls-gateway.vpstv.net/streams/708942.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="📰 Notícias e Docs",History
