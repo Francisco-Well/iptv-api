@@ -1,5 +1,5 @@
 🕘️Update time,#genre#
-2026-03-25 15:24:57,https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+2026-03-26 14:44:05,https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 📺 TV Aberta,#genre#
 SBT,https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
